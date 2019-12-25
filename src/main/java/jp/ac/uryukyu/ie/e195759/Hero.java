@@ -26,7 +26,6 @@ public class Hero extends LivingThing {
 
     /**
      * getterメソッドと同等。生死をboolean表現しているためメソッド名をisDead()とした。
-     * @return boolean
      */
 
     public void wounded(int damage){
